@@ -2,7 +2,7 @@
 My name is Akemi Pereowei Isreal, also known as Morbykat and I'm a Frontend Developer, passionate about sustainable development and finding innovative solutions to complex problems. Welcome to my GitHub page!
 
 ### 💫About me:
-I'm new to the world of web development, but I'm excited to learn as much as I can. I'm currently focusing on HTML, CSS, and JavaScript, and I'm eager to explore more advanced topics like React and Node.js. I enjoy writing or reading novels and playing board games with my friends and family.
+I'm new to the world of web development, but I'm excited to learn as much as I can. I'm currently focusing on HTML, CSS, and JavaScript, and I'm eager to explore more advanced topics like React and Node.js. I enjoy writing or reading novels and playing board games with my friends and family. Right now, I'm working on building my first website using HTML and CSS. I'm also practicing my JavaScript skills by building small projects like a calculator and a to-do list app.
 <!--
 **Morbykat/Morbykat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
